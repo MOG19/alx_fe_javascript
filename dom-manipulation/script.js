@@ -123,6 +123,7 @@ async function postQuoteToServer(quote) {
 ["populateCategories", "categoryFilter", "appendChild", "map"]
 ["option", "textContent"]
 ["filterQuote"]
+["selectedCategory"]
 
 // Function to resolve conflicts between local and server quotes
 function resolveConflicts(serverQuotes) {
