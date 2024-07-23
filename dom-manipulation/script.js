@@ -119,6 +119,9 @@ async function postQuoteToServer(quote) {
   }
 }
 
+// Insertred Code
+["populateCategories", "categoryFilter", "appendChild", "map"]
+
 // Function to resolve conflicts between local and server quotes
 function resolveConflicts(serverQuotes) {
   // For simplicity, server's data takes precedence
