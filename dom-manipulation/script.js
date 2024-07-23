@@ -121,6 +121,7 @@ async function postQuoteToServer(quote) {
 
 // Insertred Code
 ["populateCategories", "categoryFilter", "appendChild", "map"]
+["option", "textContent"]
 
 // Function to resolve conflicts between local and server quotes
 function resolveConflicts(serverQuotes) {
