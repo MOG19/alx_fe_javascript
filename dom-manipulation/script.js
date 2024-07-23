@@ -333,6 +333,9 @@ function showNotification(message) {
   }, 3000);
 }
 
+
+// 
+["syncQuotes"]
 // Periodic data fetching from the server
 setInterval(fetchQuotesFromServer, 60000); // Check for new quotes every 60 seconds
 
