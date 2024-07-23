@@ -336,6 +336,8 @@ function showNotification(message) {
 
 // 
 ["syncQuotes"]
+["Quotes synced with server!"]
+
 // Periodic data fetching from the server
 setInterval(fetchQuotesFromServer, 60000); // Check for new quotes every 60 seconds
 
